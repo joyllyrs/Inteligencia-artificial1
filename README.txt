@@ -1,5 +1,6 @@
 Sistema Operacional= Windows 10 Pro
 compilador usado= Visual Studio Code
+Python
 
 São 6 arquivos cada um contento uma questão
 att1= Somente executar e o olar mundo vai aparecer
